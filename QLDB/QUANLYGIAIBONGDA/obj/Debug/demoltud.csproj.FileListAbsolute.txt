@@ -1,0 +1,38 @@
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\bin\Debug\demoltud.exe.config
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.csprojResolveAssemblyReference.cache
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.DKHoSoDB.resources
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.csproj.GenerateResource.Cache
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\bin\Debug\demoltud.exe
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\bin\Debug\demoltud.pdb
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.Properties.Resources.resources
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.exe
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.pdb
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.LichThiDau.resources
+c:\users\ha vi\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.frmMenu.resources
+C:\Users\HA VI\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.DSCauThuGhiBan.resources
+C:\Users\HA VI\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.KetQua.resources
+C:\Users\HA VI\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.BangXepHang.resources
+C:\Users\HA VI\documents\visual studio 2013\Projects\demoltud\demoltud\obj\Debug\demoltud.DSCauThu.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\bin\Debug\demoltud.exe.config
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\bin\Debug\demoltud.exe
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\bin\Debug\demoltud.pdb
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.csprojAssemblyReference.cache
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.BangXepHang.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.DKHoSoDB.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.DSCauThu.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.DSCauThuGhiBan.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.KetQua.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.LichThiDau.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmMenu.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.Properties.Resources.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.csproj.GenerateResource.cache
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.csproj.CoreCompileInputs.cache
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.exe
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.pdb
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmSuaDoiBong.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmXoaDoiBong.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmSuaLichThiDau.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmXoaLichDau.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmSuaKetQua.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmXoaKetQua.resources
+C:\Users\TRIEU\OneDrive\demoltud\demoltud\obj\Debug\demoltud.frmDangNhap.resources
